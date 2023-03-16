@@ -1,4 +1,4 @@
-# Linkedin Clone
+# Image Gellary
 
 Image gellary react web app using Pixabay API built by [Ahmed Faroolle](https://www.imfaroolle.com/) For practicing propose.
 
