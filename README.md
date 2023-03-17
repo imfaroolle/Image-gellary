@@ -1,6 +1,6 @@
-# Image Gellary
+# Image gallery
 
-Image gellary react web app using Pixabay API built by [Ahmed Faroolle](https://www.imfaroolle.com/) For practicing propose.
+Image gallery react web app using Pixabay API built by [Ahmed Faroolle](https://www.imfaroolle.com/) For practicing propose.
 
 ## Table of contents
 
@@ -10,7 +10,7 @@ Image gellary react web app using Pixabay API built by [Ahmed Faroolle](https://
 
 ## Links
 
-- Live Site URL: [Linkedin clone](https://linkedin-clone-c239d.web.app/)
+- Live Site URL: [Image gallery](https://imfaroolle-image-gallery.netlify.app/)
 
 ## Built with
 
